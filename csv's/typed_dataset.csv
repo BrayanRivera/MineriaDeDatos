@@ -1,0 +1,1001 @@
+Series_Title,Gross,Genre,Fecha,Genero
+The Shawshank Redemption,28341469,Drama,1994-10-01,DRAMA
+The Godfather,134966411,Crime,1972-04-01,CRIMEN
+The Dark Knight,534858444,Action,2008-11-01,ACCION
+The Godfather: Part II,57300000,Crime,1974-09-01,CRIMEN
+12 Angry Men,4360000,Crime,1957-11-01,CRIMEN
+The Lord of the Rings: The Return of the King,377845905,Action,2003-11-01,ACCION
+Pulp Fiction,107928762,Crime,1994-03-01,CRIMEN
+Schindler's List,96898818,Biography,1993-05-01,BIOGRAFIA
+Inception,292576195,Action,2010-10-01,ACCION
+Fight Club,37030102,Drama,1999-11-01,DRAMA
+The Lord of the Rings: The Fellowship of the Ring,315544750,Action,2001-06-01,ACCION
+Forrest Gump,330252182,Drama,1994-11-01,DRAMA
+"Il buono, il brutto, il cattivo",6100000,Western,1966-04-01,OESTE
+The Lord of the Rings: The Two Towers,342551365,Action,2002-05-01,ACCION
+The Matrix,171479930,Action,1999-06-01,ACCION
+Goodfellas,46836394,Biography,1990-03-01,BIOGRAFIA
+Star Wars: Episode V - The Empire Strikes Back,290475067,Action,1980-04-01,ACCION
+One Flew Over the Cuckoo's Nest,112000000,Drama,1975-10-01,DRAMA
+Hamilton,1,Biography,2020-11-01,BIOGRAFIA
+Gisaengchung,53367844,Comedy,2019-10-01,COMEDIA
+Soorarai Pottru,1,Drama,2020-01-01,DRAMA
+Interstellar,188020017,Adventure,2014-02-01,AVENTURA
+Cidade de Deus,7563397,Crime,2002-10-01,CRIMEN
+Sen to Chihiro no kamikakushi,10055859,Animation,2001-07-01,ANIMACION
+Saving Private Ryan,216540909,Drama,1998-07-01,DRAMA
+The Green Mile,136801374,Crime,1999-05-01,CRIMEN
+La vita è bella,57598247,Comedy,1997-12-01,COMEDIA
+Se7en,100125643,Crime,1995-04-01,CRIMEN
+The Silence of the Lambs,130742922,Crime,1991-09-01,CRIMEN
+Star Wars,322740140,Action,1977-02-01,ACCION
+Seppuku,1,Action,1962-03-01,ACCION
+Shichinin no samurai,269061,Action,1954-06-01,ACCION
+It's a Wonderful Life,1,Drama,1946-12-01,DRAMA
+Joker,335451311,Crime,2019-05-01,CRIMEN
+Whiplash,13092000,Drama,2014-01-01,DRAMA
+The Intouchables,13182281,Biography,2011-12-01,BIOGRAFIA
+The Prestige,53089891,Drama,2006-07-01,DRAMA
+The Departed,132384315,Crime,2006-12-01,CRIMEN
+The Pianist,32572577,Biography,2002-11-01,BIOGRAFIA
+Gladiator,187705427,Action,2000-10-01,ACCION
+American History X,6719864,Drama,1998-09-01,DRAMA
+The Usual Suspects,23341568,Crime,1995-12-01,CRIMEN
+Léon,19501238,Action,1994-06-01,ACCION
+The Lion King,422783777,Animation,1994-11-01,ANIMACION
+Terminator 2: Judgment Day,204843350,Action,1991-03-01,ACCION
+Nuovo Cinema Paradiso,11990401,Drama,1988-07-01,DRAMA
+Hotaru no haka,1,Animation,1988-10-01,ANIMACION
+Back to the Future,210609762,Adventure,1985-12-01,AVENTURA
+Once Upon a Time in the West,5321508,Western,1968-05-01,OESTE
+Psycho,32000000,Horror,1960-12-01,HORROR
+Casablanca,1024560,Drama,1942-01-01,DRAMA
+Modern Times,163245,Comedy,1936-10-01,COMEDIA
+City Lights,19181,Comedy,1931-08-01,COMEDIA
+Capharnaüm,1661096,Drama,2018-02-01,DRAMA
+Ayla: The Daughter of War,1,Biography,2017-02-01,BIOGRAFIA
+Vikram Vedha,1,Action,2017-08-01,ACCION
+Kimi no na wa.,5017246,Animation,2016-02-01,ANIMACION
+Dangal,12391761,Action,2016-10-01,ACCION
+Spider-Man: Into the Spider-Verse,190241310,Animation,2018-07-01,ANIMACION
+Avengers: Endgame,858373000,Action,2019-06-01,ACCION
+Avengers: Infinity War,678815482,Action,2018-11-01,ACCION
+Coco,209726015,Animation,2017-04-01,ANIMACION
+Django Unchained,162805434,Drama,2012-09-01,DRAMA
+The Dark Knight Rises,448139099,Action,2012-05-01,ACCION
+3 Idiots,6532908,Comedy,2009-08-01,COMEDIA
+Taare Zameen Par,1223869,Drama,2007-01-01,DRAMA
+WALL·E,223808164,Animation,2008-03-01,ANIMACION
+The Lives of Others,11286112,Drama,2006-12-01,DRAMA
+Oldeuboi,707481,Action,2003-03-01,ACCION
+Memento,25544867,Mystery,2000-02-01,MISTERIO
+Mononoke-hime,2375308,Animation,1997-02-01,ANIMACION
+Once Upon a Time in America,5321508,Crime,1984-04-01,CRIMEN
+Raiders of the Lost Ark,248159971,Action,1981-08-01,ACCION
+The Shining,44017374,Drama,1980-04-01,DRAMA
+Apocalypse Now,83471511,Drama,1979-10-01,DRAMA
+Alien,78900000,Horror,1979-02-01,HORROR
+Anand,1,Drama,1971-10-01,DRAMA
+Tengoku to jigoku,1,Crime,1963-12-01,CRIMEN
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,275902,Comedy,1964-08-01,COMEDIA
+Witness for the Prosecution,8175000,Crime,1957-01-01,CRIMEN
+Paths of Glory,1,Drama,1957-04-01,DRAMA
+Rear Window,36764313,Mystery,1954-02-01,MISTERIO
+Sunset Blvd.,1,Drama,1950-02-01,DRAMA
+The Great Dictator,288475,Comedy,1940-09-01,COMEDIA
+1917,159227644,Drama,2019-06-01,DRAMA
+Tumbbad,1,Drama,2018-01-01,DRAMA
+Andhadhun,1373943,Crime,2018-04-01,CRIMEN
+Drishyam,1,Crime,2013-06-01,CRIMEN
+Jagten,687185,Drama,2012-09-01,DRAMA
+Jodaeiye Nader az Simin,7098492,Drama,2011-04-01,DRAMA
+Incendies,6857096,Drama,2010-04-01,DRAMA
+Miracle in cell NO.7,1,Drama,2019-07-01,DRAMA
+Babam ve Oglum,1,Drama,2005-04-01,DRAMA
+Inglourious Basterds,120540719,Adventure,2009-02-01,AVENTURA
+Eternal Sunshine of the Spotless Mind,34400301,Drama,2004-10-01,DRAMA
+Amélie,33225499,Comedy,2001-04-01,COMEDIA
+Snatch,30328156,Comedy,2000-11-01,COMEDIA
+Requiem for a Dream,3635482,Drama,2000-12-01,DRAMA
+American Beauty,130096601,Drama,1999-12-01,DRAMA
+Good Will Hunting,138433435,Drama,1997-02-01,DRAMA
+Bacheha-Ye aseman,933933,Drama,1997-04-01,DRAMA
+Toy Story,191796233,Animation,1995-02-01,ANIMACION
+Braveheart,75600000,Biography,1995-04-01,BIOGRAFIA
+Reservoir Dogs,2832029,Crime,1992-05-01,CRIMEN
+Full Metal Jacket,46357676,Drama,1987-05-01,DRAMA
+Idi i smotri,1,Drama,1985-10-01,DRAMA
+Aliens,85160248,Action,1986-10-01,ACCION
+Amadeus,51973029,Biography,1984-10-01,BIOGRAFIA
+Scarface,45598982,Crime,1983-09-01,CRIMEN
+Star Wars: Episode VI - Return of the Jedi,309125409,Action,1983-12-01,ACCION
+Das Boot,11487676,Adventure,1981-09-01,AVENTURA
+Taxi Driver,28262574,Crime,1976-02-01,CRIMEN
+The Sting,159600000,Comedy,1973-10-01,COMEDIA
+A Clockwork Orange,6207725,Crime,1971-08-01,CRIMEN
+2001: A Space Odyssey,56954992,Adventure,1968-08-01,AVENTURA
+Per qualche dollaro in più,15000000,Western,1965-12-01,OESTE
+Lawrence of Arabia,44824144,Adventure,1962-09-01,AVENTURA
+The Apartment,18600000,Comedy,1960-07-01,COMEDIA
+North by Northwest,13275000,Adventure,1959-03-01,AVENTURA
+Vertigo,3200000,Mystery,1958-03-01,MISTERIO
+Singin' in the Rain,8819028,Comedy,1952-12-01,COMEDIA
+Ikiru,55240,Drama,1952-04-01,DRAMA
+Ladri di biciclette,332930,Drama,1948-09-01,DRAMA
+Double Indemnity,5720000,Crime,1944-01-01,CRIMEN
+Citizen Kane,1585634,Drama,1941-06-01,DRAMA
+M - Eine Stadt sucht einen Mörder,28877,Crime,1931-03-01,CRIMEN
+Metropolis,1236166,Drama,1927-09-01,DRAMA
+The Kid,5450000,Comedy,1921-12-01,COMEDIA
+Chhichhore,898575,Comedy,2019-10-01,COMEDIA
+Uri: The Surgical Strike,4186168,Action,2018-09-01,ACCION
+K.G.F: Chapter 1,1,Action,2018-05-01,ACCION
+Green Book,85080171,Biography,2018-02-01,BIOGRAFIA
+"Three Billboards Outside Ebbing, Missouri",54513740,Comedy,2017-09-01,COMEDIA
+Talvar,342370,Crime,2015-02-01,CRIMEN
+Baahubali 2: The Conclusion,20186659,Action,2017-08-01,ACCION
+Klaus,1,Animation,2019-04-01,ANIMACION
+Drishyam,739478,Crime,2015-11-01,CRIMEN
+Queen,1429534,Adventure,2013-08-01,AVENTURA
+Mandariinid,144501,Drama,2013-04-01,DRAMA
+Bhaag Milkha Bhaag,1626289,Biography,2013-06-01,BIOGRAFIA
+Gangs of Wasseypur,1,Action,2012-11-01,ACCION
+Udaan,7461,Drama,2010-09-01,DRAMA
+Paan Singh Tomar,39567,Action,2012-05-01,ACCION
+El secreto de sus ojos,6391436,Drama,2009-02-01,DRAMA
+Warrior,13657115,Action,2011-08-01,ACCION
+Shutter Island,128012934,Mystery,2010-09-01,MISTERIO
+Up,293004164,Animation,2009-05-01,ANIMACION
+The Wolf of Wall Street,116900694,Biography,2013-03-01,BIOGRAFIA
+Chak De! India,1113541,Drama,2007-06-01,DRAMA
+There Will Be Blood,40222514,Drama,2007-02-01,DRAMA
+Pan's Labyrinth,37634615,Drama,2006-11-01,DRAMA
+Toy Story 3,415004880,Animation,2010-06-01,ANIMACION
+V for Vendetta,70511035,Action,2005-06-01,ACCION
+Rang De Basanti,2197331,Comedy,2006-05-01,COMEDIA
+Black,733094,Drama,2005-08-01,DRAMA
+Batman Begins,206852432,Action,2005-05-01,ACCION
+"Swades: We, the People",1223240,Drama,2004-10-01,DRAMA
+Der Untergang,5509040,Biography,2004-11-01,BIOGRAFIA
+Hauru no ugoku shiro,4711096,Animation,2004-12-01,ANIMACION
+A Beautiful Mind,170742341,Biography,2001-05-01,BIOGRAFIA
+Hera Pheri,1,Action,2000-08-01,ACCION
+"Lock, Stock and Two Smoking Barrels",3897569,Action,1998-09-01,ACCION
+L.A. Confidential,64616940,Crime,1997-08-01,CRIMEN
+Eskiya,1,Crime,1996-02-01,CRIMEN
+Heat,67436818,Crime,1995-10-01,CRIMEN
+Casino,42438300,Crime,1995-05-01,CRIMEN
+Andaz Apna Apna,1,Action,1994-11-01,ACCION
+Unforgiven,101157447,Drama,1992-12-01,DRAMA
+Indiana Jones and the Last Crusade,197171806,Action,1989-11-01,ACCION
+Dom za vesanje,280015,Comedy,1988-08-01,COMEDIA
+Tonari no Totoro,1105564,Animation,1988-06-01,ANIMACION
+Die Hard,83008852,Action,1988-10-01,ACCION
+Ran,4135750,Action,1985-02-01,ACCION
+Raging Bull,23383987,Biography,1980-11-01,BIOGRAFIA
+Stalker,234723,Drama,1979-03-01,DRAMA
+Höstsonaten,1,Drama,1978-02-01,DRAMA
+The Message,1,Biography,1976-11-01,BIOGRAFIA
+Sholay,1,Action,1975-10-01,ACCION
+Monty Python and the Holy Grail,1229197,Adventure,1975-07-01,AVENTURA
+The Great Escape,12100000,Adventure,1963-11-01,AVENTURA
+To Kill a Mockingbird,1,Crime,1962-08-01,CRIMEN
+Yôjinbô,1,Action,1961-03-01,ACCION
+Judgment at Nuremberg,1,Drama,1961-04-01,DRAMA
+Some Like It Hot,25000000,Comedy,1959-01-01,COMEDIA
+Smultronstället,1,Drama,1957-04-01,DRAMA
+Det sjunde inseglet,1,Drama,1957-10-01,DRAMA
+Du rififi chez les hommes,57226,Crime,1955-05-01,CRIMEN
+Dial M for Murder,12562,Crime,1954-09-01,CRIMEN
+Tôkyô monogatari,1,Drama,1953-05-01,DRAMA
+Rashômon,96568,Crime,1950-11-01,CRIMEN
+All About Eve,10177,Drama,1950-04-01,DRAMA
+The Treasure of the Sierra Madre,5014000,Adventure,1948-02-01,AVENTURA
+To Be or Not to Be,1,Comedy,1942-06-01,COMEDIA
+The Gold Rush,5450000,Adventure,1925-11-01,AVENTURA
+Sherlock Jr.,977375,Action,1924-08-01,ACCION
+Portrait de la jeune fille en feu,3759854,Drama,2019-08-01,DRAMA
+Pink,1241223,Drama,2016-08-01,DRAMA
+Koe no katachi,1,Animation,2016-12-01,ANIMACION
+Contratiempo,1,Crime,2016-08-01,CRIMEN
+Ah-ga-ssi,2006788,Drama,2016-08-01,DRAMA
+Mommy,3492754,Drama,2014-11-01,DRAMA
+Haider,901610,Action,2014-02-01,ACCION
+Logan,226277068,Action,2017-08-01,ACCION
+Room,14677674,Drama,2015-05-01,DRAMA
+Relatos salvajes,3107072,Comedy,2014-02-01,COMEDIA
+Soul,1,Animation,2020-03-01,ANIMACION
+Kis Uykusu,165520,Drama,2014-11-01,DRAMA
+PK,10616104,Comedy,2014-07-01,COMEDIA
+OMG: Oh My God!,923221,Comedy,2012-11-01,COMEDIA
+The Grand Budapest Hotel,59100318,Adventure,2014-04-01,AVENTURA
+Gone Girl,167767189,Drama,2014-10-01,DRAMA
+Ôkami kodomo no Ame to Yuki,1,Animation,2012-10-01,ANIMACION
+Hacksaw Ridge,67209615,Biography,2016-03-01,BIOGRAFIA
+Inside Out,356461711,Animation,2015-02-01,ANIMACION
+Barfi!,2804874,Comedy,2012-10-01,COMEDIA
+12 Years a Slave,56671993,Biography,2013-06-01,BIOGRAFIA
+Rush,26947624,Action,2013-06-01,ACCION
+Ford v Ferrari,117624028,Action,2019-10-01,ACCION
+Spotlight,45055776,Biography,2015-01-01,BIOGRAFIA
+Song of the Sea,857524,Animation,2014-11-01,ANIMACION
+Kahaani,1035953,Mystery,2012-01-01,MISTERIO
+Zindagi Na Milegi Dobara,3108485,Comedy,2011-04-01,COMEDIA
+Prisoners,61002302,Crime,2013-03-01,CRIMEN
+Mad Max: Fury Road,154058340,Action,2015-11-01,ACCION
+A Wednesday,1,Action,2008-01-01,ACCION
+Gran Torino,148095302,Drama,2008-12-01,DRAMA
+Harry Potter and the Deathly Hallows: Part 2,381011219,Adventure,2011-10-01,AVENTURA
+Okuribito,1498210,Drama,2008-05-01,DRAMA
+Hachi: A Dog's Tale,1,Biography,2009-08-01,BIOGRAFIA
+Mary and Max,1,Animation,2009-09-01,ANIMACION
+How to Train Your Dragon,217581231,Animation,2010-01-01,ANIMACION
+Into the Wild,18354356,Adventure,2007-06-01,AVENTURA
+No Country for Old Men,74283625,Crime,2007-11-01,CRIMEN
+Lage Raho Munna Bhai,2217561,Comedy,2006-10-01,COMEDIA
+Million Dollar Baby,100492203,Drama,2004-09-01,DRAMA
+Hotel Rwanda,23530892,Biography,2004-10-01,BIOGRAFIA
+Taegukgi hwinalrimyeo,1111061,Action,2004-02-01,ACCION
+Before Sunset,5820649,Drama,2004-11-01,DRAMA
+Munna Bhai M.B.B.S.,1,Comedy,2003-07-01,COMEDIA
+Salinui chueok,14131,Crime,2003-06-01,CRIMEN
+Dil Chahta Hai,300000,Comedy,2001-11-01,COMEDIA
+Kill Bill: Vol. 1,70099045,Action,2003-05-01,ACCION
+Finding Nemo,380843261,Animation,2003-04-01,ANIMACION
+Catch Me If You Can,164615351,Biography,2002-04-01,BIOGRAFIA
+Amores perros,5383834,Drama,2000-12-01,DRAMA
+"Monsters, Inc.",289916256,Animation,2001-08-01,ANIMACION
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",1,Animation,1997-09-01,ANIMACION
+Lagaan: Once Upon a Time in India,70147,Adventure,2001-02-01,AVENTURA
+The Sixth Sense,293506292,Drama,1999-07-01,DRAMA
+La leggenda del pianista sull'oceano,259127,Drama,1998-05-01,DRAMA
+The Truman Show,125618201,Comedy,1998-12-01,COMEDIA
+"Crna macka, beli macor",348660,Comedy,1998-04-01,COMEDIA
+The Big Lebowski,17498804,Comedy,1998-08-01,COMEDIA
+Fa yeung nin wah,2734044,Drama,2000-06-01,DRAMA
+Trainspotting,16501785,Drama,1996-10-01,DRAMA
+Fargo,24611975,Crime,1996-03-01,CRIMEN
+Underground,171082,Comedy,1995-07-01,COMEDIA
+La haine,309811,Crime,1995-06-01,CRIMEN
+Dilwale Dulhania Le Jayenge,1,Drama,1995-01-01,DRAMA
+Before Sunrise,5535405,Drama,1995-02-01,DRAMA
+Trois couleurs: Rouge,4043686,Drama,1994-03-01,DRAMA
+Chung Hing sam lam,600200,Comedy,1994-08-01,COMEDIA
+Jurassic Park,402453882,Action,1993-09-01,ACCION
+In the Name of the Father,25010410,Biography,1993-04-01,BIOGRAFIA
+Ba wang bie ji,5216888,Drama,1993-04-01,DRAMA
+Dà hóng denglong gaogao guà,2603061,Drama,1991-09-01,DRAMA
+Dead Poets Society,95860116,Comedy,1989-01-01,COMEDIA
+Stand by Me,52287414,Adventure,1986-04-01,AVENTURA
+Platoon,138530565,Drama,1986-04-01,DRAMA
+"Paris, Texas",2181987,Drama,1984-10-01,DRAMA
+Kaze no tani no Naushika,495770,Animation,1984-09-01,ANIMACION
+The Thing,13782838,Horror,1982-05-01,HORROR
+Pink Floyd: The Wall,22244207,Drama,1982-02-01,DRAMA
+Fitzcarraldo,1,Adventure,1982-05-01,AVENTURA
+Fanny och Alexander,4971340,Drama,1982-09-01,DRAMA
+Blade Runner,32868943,Action,1982-08-01,ACCION
+The Elephant Man,1,Biography,1980-01-01,BIOGRAFIA
+Life of Brian,20045115,Comedy,1979-07-01,COMEDIA
+The Deer Hunter,48979328,Drama,1978-01-01,DRAMA
+Rocky,117235247,Drama,1976-10-01,DRAMA
+Network,1,Drama,1976-08-01,DRAMA
+Barry Lyndon,1,Adventure,1975-10-01,AVENTURA
+Zerkalo,177345,Biography,1975-01-01,BIOGRAFIA
+Chinatown,29000000,Drama,1974-03-01,DRAMA
+Paper Moon,30933743,Comedy,1973-09-01,COMEDIA
+Viskningar och rop,1742348,Drama,1972-04-01,DRAMA
+Solaris,1,Drama,1972-07-01,DRAMA
+Le samouraï,39481,Crime,1967-10-01,CRIMEN
+Cool Hand Luke,16217773,Crime,1967-08-01,CRIMEN
+Persona,1,Drama,1966-08-01,DRAMA
+Andrei Rublev,102021,Biography,1966-11-01,BIOGRAFIA
+La battaglia di Algeri,55908,Drama,1966-04-01,DRAMA
+El ángel exterminador,1,Drama,1962-02-01,DRAMA
+What Ever Happened to Baby Jane?,4050000,Drama,1962-10-01,DRAMA
+Sanjuro,1,Action,1962-03-01,ACCION
+The Man Who Shot Liberty Valance,1,Drama,1962-10-01,DRAMA
+Ivanovo detstvo,1,Drama,1962-04-01,DRAMA
+Jungfrukällan,1526000,Drama,1960-06-01,DRAMA
+Inherit the Wind,1,Biography,1960-07-01,BIOGRAFIA
+Les quatre cents coups,1,Crime,1959-06-01,CRIMEN
+Ben-Hur,74700000,Adventure,1959-10-01,AVENTURA
+Kakushi-toride no san-akunin,1,Adventure,1958-04-01,AVENTURA
+Le notti di Cabiria,752045,Drama,1957-09-01,DRAMA
+Kumonosu-jô,1,Drama,1957-10-01,DRAMA
+The Bridge on the River Kwai,44908000,Adventure,1957-08-01,AVENTURA
+On the Waterfront,9600000,Crime,1954-08-01,CRIMEN
+Le salaire de la peur,1,Adventure,1953-05-01,AVENTURA
+Ace in the Hole,3969893,Drama,1951-12-01,DRAMA
+White Heat,1,Action,1949-01-01,ACCION
+The Third Man,449191,Film-Noir,1949-07-01,OTRO
+The Red Shoes,10900000,Drama,1948-07-01,DRAMA
+The Shop Around the Corner,203300,Comedy,1940-07-01,COMEDIA
+Rebecca,4360000,Drama,1940-08-01,DRAMA
+Mr. Smith Goes to Washington,9600000,Comedy,1939-12-01,COMEDIA
+Gone with the Wind,198676459,Drama,1939-09-01,DRAMA
+La Grande Illusion,172885,Drama,1937-12-01,DRAMA
+It Happened One Night,4360000,Comedy,1934-04-01,COMEDIA
+La passion de Jeanne d'Arc,21877,Biography,1928-11-01,BIOGRAFIA
+The Circus,1,Comedy,1928-10-01,COMEDIA
+Sunrise: A Song of Two Humans,539540,Drama,1927-08-01,DRAMA
+The General,1033895,Action,1926-03-01,ACCION
+Das Cabinet des Dr. Caligari,1,Fantasy,1920-01-01,OTRO
+Badhaai ho,1,Comedy,2018-03-01,COMEDIA
+Togo,1,Adventure,2019-12-01,AVENTURA
+Airlift,1,Drama,2016-05-01,DRAMA
+Bajrangi Bhaijaan,8178001,Action,2015-09-01,ACCION
+Baby,1,Action,2015-08-01,ACCION
+La La Land,151101803,Comedy,2016-05-01,COMEDIA
+Lion,51739495,Biography,2016-12-01,BIOGRAFIA
+The Martian,228433663,Adventure,2015-09-01,AVENTURA
+Zootopia,341268248,Animation,2016-05-01,ANIMACION
+Bãhubali: The Beginning,6738000,Action,2015-01-01,ACCION
+Kaguyahime no monogatari,1506975,Animation,2013-03-01,ANIMACION
+Wonder,132422809,Drama,2017-06-01,DRAMA
+Gully Boy,5566534,Drama,2019-10-01,DRAMA
+Special Chabbis,1079369,Crime,2013-04-01,CRIMEN
+Short Term 12,1010414,Drama,2013-06-01,DRAMA
+Serbuan maut 2: Berandal,2625803,Action,2014-03-01,ACCION
+The Imitation Game,91125683,Biography,2014-08-01,BIOGRAFIA
+Guardians of the Galaxy,333176600,Action,2014-07-01,ACCION
+Blade Runner 2049,92054159,Action,2017-02-01,ACCION
+Her,25568251,Drama,2013-09-01,DRAMA
+Bohemian Rhapsody,216428042,Biography,2018-06-01,BIOGRAFIA
+The Revenant,183637894,Action,2015-05-01,ACCION
+The Perks of Being a Wallflower,17738570,Drama,2012-12-01,DRAMA
+Tropa de Elite 2: O Inimigo Agora é Outro,100119,Action,2010-03-01,ACCION
+The King's Speech,138797449,Biography,2010-09-01,BIOGRAFIA
+The Help,169708112,Drama,2011-11-01,DRAMA
+Deadpool,363070709,Action,2016-01-01,ACCION
+Darbareye Elly,106662,Drama,2009-07-01,DRAMA
+Dev.D,10950,Drama,2009-09-01,DRAMA
+Yip Man,1,Action,2008-05-01,ACCION
+My Name Is Khan,4018695,Drama,2010-02-01,DRAMA
+Nefes: Vatan Sagolsun,1,Action,2009-09-01,ACCION
+Slumdog Millionaire,141319928,Drama,2008-05-01,DRAMA
+Black Swan,106954678,Drama,2010-11-01,DRAMA
+Tropa de Elite,8060,Action,2007-06-01,ACCION
+The Avengers,623279547,Action,2012-10-01,ACCION
+Persepolis,4445756,Animation,2007-01-01,ANIMACION
+Dallas Buyers Club,27298285,Biography,2013-09-01,BIOGRAFIA
+The Pursuit of Happyness,163566459,Biography,2006-03-01,BIOGRAFIA
+Blood Diamond,57366262,Adventure,2006-03-01,AVENTURA
+The Bourne Ultimatum,227471070,Action,2007-09-01,ACCION
+Bin-jip,238507,Crime,2004-05-01,CRIMEN
+Sin City,74103820,Crime,2005-05-01,CRIMEN
+Le scaphandre et le papillon,5990075,Biography,2007-09-01,BIOGRAFIA
+G.O.R.A.,1,Adventure,2004-01-01,AVENTURA
+Ratatouille,206445654,Animation,2007-01-01,ANIMACION
+Casino Royale,167445960,Action,2006-02-01,ACCION
+Kill Bill: Vol. 2,66208183,Action,2004-03-01,ACCION
+Vozvrashchenie,502028,Drama,2003-06-01,DRAMA
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,2380788,Drama,2003-02-01,DRAMA
+Mar adentro,2086345,Biography,2014-01-01,BIOGRAFIA
+Cinderella Man,61649911,Biography,2005-06-01,BIOGRAFIA
+Kal Ho Naa Ho,1787378,Comedy,2003-01-01,COMEDIA
+Mou gaan dou,169659,Action,2002-04-01,ACCION
+Pirates of the Caribbean: The Curse of the Black Pearl,305413918,Action,2003-02-01,ACCION
+Big Fish,66257002,Adventure,2003-01-01,AVENTURA
+The Incredibles,261441092,Animation,2004-04-01,ANIMACION
+Yeopgijeogin geunyeo,1,Comedy,2001-06-01,COMEDIA
+Dogville,1530386,Crime,2003-02-01,CRIMEN
+Vizontele,1,Comedy,2001-09-01,COMEDIA
+Donnie Darko,1480006,Drama,2001-06-01,DRAMA
+Magnolia,22455976,Drama,1999-04-01,DRAMA
+Dancer in the Dark,4184036,Crime,2000-01-01,CRIMEN
+The Straight Story,6203044,Biography,1999-05-01,BIOGRAFIA
+Pâfekuto burû,776665,Animation,1997-08-01,ANIMACION
+Festen,1647780,Drama,1998-02-01,DRAMA
+Central do Brasil,5595428,Drama,1998-03-01,DRAMA
+The Iron Giant,23159305,Animation,1999-01-01,ANIMACION
+Knockin' on Heaven's Door,3296,Action,1997-09-01,ACCION
+Sling Blade,24475416,Drama,1996-12-01,DRAMA
+Secrets & Lies,13417292,Comedy,1996-04-01,COMEDIA
+Twelve Monkeys,57141459,Mystery,1995-03-01,MISTERIO
+Kôkaku Kidôtai,515905,Animation,1995-02-01,ANIMACION
+The Nightmare Before Christmas,75082668,Animation,1993-12-01,ANIMACION
+Groundhog Day,70906973,Comedy,1993-10-01,COMEDIA
+Bound by Honor,4496583,Crime,1993-03-01,CRIMEN
+Scent of a Woman,63895607,Drama,1992-07-01,DRAMA
+Aladdin,217350219,Animation,1992-04-01,ANIMACION
+JFK,70405498,Drama,1991-06-01,DRAMA
+Beauty and the Beast,218967620,Animation,1991-02-01,ANIMACION
+Dances with Wolves,184208848,Adventure,1990-05-01,AVENTURA
+Do the Right Thing,27545445,Comedy,1989-06-01,COMEDIA
+Rain Man,178800000,Drama,1988-09-01,DRAMA
+Akira,553171,Animation,1988-11-01,ANIMACION
+The Princess Bride,30857814,Adventure,1987-03-01,AVENTURA
+Der Himmel über Berlin,3333969,Drama,1987-10-01,DRAMA
+Au revoir les enfants,4542825,Drama,1987-02-01,DRAMA
+Tenkû no shiro Rapyuta,1,Animation,1986-07-01,ANIMACION
+The Terminator,38400000,Action,1984-05-01,ACCION
+Gandhi,52767889,Biography,1982-02-01,BIOGRAFIA
+Kagemusha,1,Drama,1980-02-01,DRAMA
+Being There,30177511,Comedy,1979-01-01,COMEDIA
+Annie Hall,39200000,Comedy,1977-04-01,COMEDIA
+Jaws,260000000,Adventure,1975-01-01,AVENTURA
+Dog Day Afternoon,50000000,Biography,1975-05-01,BIOGRAFIA
+Young Frankenstein,86300000,Comedy,1974-02-01,COMEDIA
+Papillon,53267000,Biography,1973-12-01,BIOGRAFIA
+The Exorcist,232906145,Horror,1973-12-01,HORROR
+Sleuth,4081254,Mystery,1972-12-01,MISTERIO
+The Last Picture Show,29133000,Drama,1971-02-01,DRAMA
+Fiddler on the Roof,80500000,Drama,1971-12-01,DRAMA
+Il conformista,541940,Drama,1970-03-01,DRAMA
+Butch Cassidy and the Sundance Kid,102308889,Biography,1969-03-01,BIOGRAFIA
+Rosemary's Baby,1,Drama,1968-04-01,DRAMA
+Planet of the Apes,33395426,Adventure,1968-06-01,AVENTURA
+The Graduate,104945305,Comedy,1967-11-01,COMEDIA
+Who's Afraid of Virginia Woolf?,0,Drama,1966-12-01,DRAMA
+The Sound of Music,163214286,Biography,1965-01-01,BIOGRAFIA
+Doctor Zhivago,111722000,Drama,1965-07-01,DRAMA
+Per un pugno di dollari,14500000,Action,1964-06-01,ACCION
+8½,50690,Drama,1963-03-01,DRAMA
+Vivre sa vie: Film en douze tableaux,1,Drama,1962-07-01,DRAMA
+The Hustler,8284000,Drama,1961-02-01,DRAMA
+La dolce vita,19516000,Comedy,1960-08-01,COMEDIA
+Rio Bravo,12535000,Action,1959-04-01,ACCION
+Anatomy of a Murder,11900000,Crime,1959-02-01,CRIMEN
+Touch of Evil,2237659,Crime,1958-12-01,CRIMEN
+Cat on a Hot Tin Roof,17570324,Drama,1958-06-01,DRAMA
+Sweet Smell of Success,1,Drama,1957-08-01,DRAMA
+The Killing,1,Crime,1956-10-01,CRIMEN
+The Night of the Hunter,654000,Crime,1955-11-01,CRIMEN
+La Strada,1,Drama,1954-01-01,DRAMA
+Les diaboliques,1,Crime,1955-07-01,CRIMEN
+Stalag 17,1,Comedy,1953-01-01,COMEDIA
+Roman Holiday,1,Comedy,1953-08-01,COMEDIA
+A Streetcar Named Desire,8000000,Drama,1951-10-01,DRAMA
+In a Lonely Place,1,Drama,1950-07-01,DRAMA
+Kind Hearts and Coronets,1,Comedy,1949-06-01,COMEDIA
+Rope,1,Crime,1948-10-01,CRIMEN
+Out of the Past,1,Crime,1947-05-01,CRIMEN
+Brief Encounter,1,Drama,1945-02-01,DRAMA
+Laura,4360000,Drama,1944-05-01,DRAMA
+The Best Years of Our Lives,23650000,Drama,1946-12-01,DRAMA
+Arsenic and Old Lace,1,Comedy,1942-05-01,COMEDIA
+The Maltese Falcon,2108060,Film-Noir,1941-09-01,OTRO
+The Grapes of Wrath,55000,Drama,1940-11-01,DRAMA
+The Wizard of Oz,2076020,Adventure,1939-01-01,AVENTURA
+La règle du jeu,1,Comedy,1939-08-01,COMEDIA
+The Thin Man,1,Comedy,1934-05-01,COMEDIA
+All Quiet on the Western Front,3270000,Drama,1930-05-01,DRAMA
+Bronenosets Potemkin,50970,Drama,1925-05-01,DRAMA
+Knives Out,165359751,Comedy,2019-07-01,COMEDIA
+Dil Bechara,1,Comedy,2020-09-01,COMEDIA
+Manbiki kazoku,3313513,Crime,2018-10-01,CRIMEN
+Marriage Story,2000000,Comedy,2019-08-01,COMEDIA
+Call Me by Your Name,18095701,Drama,2017-06-01,DRAMA
+"I, Daniel Blake",258168,Drama,2016-01-01,DRAMA
+Isle of Dogs,32015231,Animation,2018-09-01,ANIMACION
+Hunt for the Wilderpeople,5202582,Adventure,2016-07-01,AVENTURA
+Captain Fantastic,5875006,Comedy,2016-07-01,COMEDIA
+Sing Street,3237118,Comedy,2016-05-01,COMEDIA
+Thor: Ragnarok,315058289,Action,2017-05-01,ACCION
+Nightcrawler,32381218,Crime,2014-03-01,CRIMEN
+Jojo Rabbit,349555,Comedy,2019-02-01,COMEDIA
+Arrival,100546139,Drama,2016-06-01,DRAMA
+Star Wars: Episode VII - The Force Awakens,936662225,Action,2015-02-01,ACCION
+Before Midnight,8114627,Drama,2013-05-01,DRAMA
+X-Men: Days of Future Past,233921534,Action,2014-08-01,ACCION
+Bir Zamanlar Anadolu'da,138730,Crime,2011-11-01,CRIMEN
+The Artist,44671682,Comedy,2011-07-01,COMEDIA
+Edge of Tomorrow,100206256,Action,2014-10-01,ACCION
+Amour,6739492,Drama,2012-03-01,DRAMA
+The Irishman,7000000,Biography,2019-10-01,BIOGRAFIA
+Un prophète,2084637,Crime,2009-08-01,CRIMEN
+Moon,5009677,Drama,2009-04-01,DRAMA
+Låt den rätte komma in,2122065,Crime,2008-01-01,CRIMEN
+District 9,115646235,Action,2009-03-01,ACCION
+The Wrestler,26236603,Drama,2008-09-01,DRAMA
+Jab We Met,410800,Comedy,2007-11-01,COMEDIA
+Boyhood,25379975,Drama,2014-07-01,DRAMA
+"4 luni, 3 saptamâni si 2 zile",1185783,Drama,2007-07-01,DRAMA
+Star Trek,257730019,Action,2009-10-01,ACCION
+In Bruges,7757130,Comedy,2008-02-01,COMEDIA
+The Man from Earth,1,Drama,2007-09-01,DRAMA
+Letters from Iwo Jima,13756082,Action,2006-10-01,ACCION
+The Fall,2280348,Adventure,2006-02-01,AVENTURA
+Life of Pi,124987023,Adventure,2012-01-01,AVENTURA
+Fantastic Mr. Fox,21002919,Animation,2009-01-01,ANIMACION
+C.R.A.Z.Y.,1,Comedy,2005-06-01,COMEDIA
+Les choristes,3635164,Drama,2004-01-01,DRAMA
+Iron Man,318412101,Action,2008-11-01,ACCION
+Shaun of the Dead,13542874,Comedy,2004-08-01,COMEDIA
+Gegen die Wand,1,Drama,2004-12-01,DRAMA
+Mystic River,90135191,Crime,2003-05-01,CRIMEN
+Harry Potter and the Prisoner of Azkaban,249358727,Adventure,2004-11-01,AVENTURA
+Ying xiong,53710019,Action,2002-07-01,ACCION
+Hable con ella,9284265,Drama,2002-05-01,DRAMA
+No Man's Land,1059830,Comedy,2001-08-01,COMEDIA
+Cowboy Bebop: Tengoku no tobira,1000045,Animation,2001-12-01,ANIMACION
+The Bourne Identity,121661683,Action,2002-03-01,ACCION
+Nueve reinas,1221261,Crime,2000-05-01,CRIMEN
+Children of Men,35552383,Adventure,2006-03-01,AVENTURA
+Almost Famous,32534850,Adventure,2000-01-01,AVENTURA
+Mulholland Dr.,7220243,Drama,2001-03-01,DRAMA
+Toy Story 2,245852179,Animation,1999-06-01,ANIMACION
+Boogie Nights,26400640,Drama,1997-02-01,DRAMA
+Mimi wo sumaseba,1,Animation,1995-05-01,ANIMACION
+Once Were Warriors,2201126,Crime,1994-06-01,CRIMEN
+True Romance,12281500,Crime,1993-04-01,CRIMEN
+Trois couleurs: Bleu,1324974,Drama,1993-12-01,DRAMA
+Jûbê ninpûchô,1,Animation,1993-06-01,ANIMACION
+Carlito's Way,36948322,Crime,1993-04-01,CRIMEN
+Edward Scissorhands,56362352,Drama,1990-09-01,DRAMA
+My Left Foot: The Story of Christy Brown,14743391,Biography,1989-08-01,BIOGRAFIA
+Crimes and Misdemeanors,18254702,Comedy,1989-02-01,COMEDIA
+The Untouchables,76270454,Crime,1987-11-01,CRIMEN
+Hannah and Her Sisters,40084041,Comedy,1986-08-01,COMEDIA
+Brazil,9929135,Drama,1985-05-01,DRAMA
+This Is Spinal Tap,188751,Comedy,1984-09-01,COMEDIA
+A Christmas Story,20605209,Comedy,1983-12-01,COMEDIA
+The Blues Brothers,57229890,Action,1980-02-01,ACCION
+Manhattan,45700000,Comedy,1979-03-01,COMEDIA
+All That Jazz,37823676,Drama,1979-11-01,DRAMA
+Dawn of the Dead,5100000,Action,1978-01-01,ACCION
+All the President's Men,70600000,Biography,1976-05-01,BIOGRAFIA
+La montaña sagrada,61001,Adventure,1973-05-01,AVENTURA
+Amarcord,1,Comedy,1973-05-01,COMEDIA
+Le charme discret de la bourgeoisie,198809,Comedy,1972-01-01,COMEDIA
+"Aguirre, der Zorn Gottes",1,Action,1972-08-01,ACCION
+Harold and Maude,1,Comedy,1971-09-01,COMEDIA
+Patton,61700000,Biography,1970-09-01,BIOGRAFIA
+The Wild Bunch,12064472,Action,1969-10-01,ACCION
+Night of the Living Dead,89029,Horror,1968-05-01,HORROR
+The Lion in Winter,22276975,Biography,1968-01-01,BIOGRAFIA
+In the Heat of the Night,24379978,Crime,1967-02-01,CRIMEN
+Charade,13474588,Comedy,1963-05-01,COMEDIA
+The Manchurian Candidate,1,Drama,1962-02-01,DRAMA
+Spartacus,30000000,Adventure,1960-04-01,AVENTURA
+L'avventura,1,Drama,1960-08-01,DRAMA
+Hiroshima mon amour,88300,Drama,1959-06-01,DRAMA
+The Ten Commandments,93740000,Adventure,1956-09-01,AVENTURA
+The Searchers,1,Adventure,1956-09-01,AVENTURA
+East of Eden,1,Drama,1955-11-01,DRAMA
+High Noon,9450000,Drama,1952-05-01,DRAMA
+Strangers on a Train,7630000,Crime,1951-12-01,CRIMEN
+Harvey,1,Comedy,1950-08-01,COMEDIA
+Miracle on 34th Street,2650000,Comedy,1947-05-01,COMEDIA
+Notorious,10464000,Drama,1946-12-01,DRAMA
+The Big Sleep,6540000,Crime,1946-05-01,CRIMEN
+The Lost Weekend,9460000,Drama,1945-06-01,DRAMA
+The Philadelphia Story,1,Comedy,1940-03-01,COMEDIA
+His Girl Friday,296000,Comedy,1940-07-01,COMEDIA
+The Adventures of Robin Hood,3981000,Action,1938-08-01,ACCION
+A Night at the Opera,2537520,Comedy,1935-06-01,COMEDIA
+King Kong,10000000,Adventure,1933-08-01,AVENTURA
+Freaks,1,Drama,1932-04-01,DRAMA
+Nosferatu,1,Fantasy,1922-05-01,OTRO
+The Gentlemen,1,Action,2019-07-01,ACCION
+Raazi,1,Action,2018-10-01,ACCION
+Sound of Metal,1,Drama,2019-03-01,DRAMA
+Forushande,2402067,Drama,2016-08-01,DRAMA
+Dunkirk,188373161,Action,2017-09-01,ACCION
+Perfetti sconosciuti,1,Comedy,2016-03-01,COMEDIA
+Hidden Figures,169607287,Biography,2016-09-01,BIOGRAFIA
+Paddington 2,40442052,Adventure,2017-01-01,AVENTURA
+Udta Punjab,1,Action,2016-06-01,ACCION
+Kubo and the Two Strings,48023088,Animation,2016-12-01,ANIMACION
+M.S. Dhoni: The Untold Story,1782795,Biography,2016-05-01,BIOGRAFIA
+Manchester by the Sea,47695120,Drama,2016-10-01,DRAMA
+Under sandet,435266,Drama,2015-04-01,DRAMA
+Rogue One,532177324,Action,2016-04-01,ACCION
+Captain America: Civil War,408084349,Action,2016-07-01,ACCION
+The Hateful Eight,54117416,Crime,2015-09-01,CRIMEN
+Little Women,108101214,Drama,2019-06-01,DRAMA
+Loving Vincent,6735118,Animation,2017-06-01,ANIMACION
+Pride,1,Biography,2014-08-01,BIOGRAFIA
+Le passé,1330596,Drama,2013-02-01,DRAMA
+La grande bellezza,2852400,Drama,2013-02-01,DRAMA
+The Lunchbox,4231500,Drama,2013-08-01,DRAMA
+Vicky Donor,169209,Comedy,2012-02-01,COMEDIA
+Big Hero 6,222527828,Animation,2014-06-01,ANIMACION
+About Time,15322921,Comedy,2013-08-01,COMEDIA
+English Vinglish,1670773,Comedy,2012-06-01,COMEDIA
+Kaze tachinu,5209580,Animation,2013-01-01,ANIMACION
+Toy Story 4,434038008,Animation,2019-09-01,ANIMACION
+La migliore offerta,85433,Crime,2013-03-01,CRIMEN
+Moonrise Kingdom,45512466,Comedy,2012-08-01,COMEDIA
+How to Train Your Dragon 2,177002924,Animation,2014-09-01,ANIMACION
+The Big Short,70259870,Biography,2015-08-01,BIOGRAFIA
+Kokuhaku,1,Drama,2010-09-01,DRAMA
+Ang-ma-reul bo-at-da,128392,Action,2010-12-01,ACCION
+The Girl with the Dragon Tattoo,102515793,Crime,2011-03-01,CRIMEN
+Captain Phillips,107100855,Adventure,2013-05-01,AVENTURA
+Ajeossi,6460,Action,2010-01-01,ACCION
+Straight Outta Compton,161197785,Biography,2015-02-01,BIOGRAFIA
+Madeo,547292,Crime,2009-01-01,CRIMEN
+Chugyeokja,1,Action,2008-07-01,ACCION
+The Hobbit: The Desolation of Smaug,258366855,Adventure,2013-07-01,AVENTURA
+Das weiße Band - Eine deutsche Kindergeschichte,2222647,Drama,2009-06-01,DRAMA
+Män som hatar kvinnor,10095170,Crime,2009-11-01,CRIMEN
+The Trial of the Chicago 7,1,Drama,2020-10-01,DRAMA
+Druk,1,Comedy,2020-09-01,COMEDIA
+The Fighter,93617009,Biography,2010-07-01,BIOGRAFIA
+Taken,145000989,Action,2008-02-01,ACCION
+The Boy in the Striped Pyjamas,9030581,Drama,2008-07-01,DRAMA
+Once,9439923,Drama,2007-06-01,DRAMA
+The Hobbit: An Unexpected Journey,303003568,Adventure,2012-07-01,AVENTURA
+Auf der anderen Seite,741283,Drama,2007-08-01,DRAMA
+Atonement,50927067,Drama,2007-10-01,DRAMA
+Drive,35061555,Crime,2011-10-01,CRIMEN
+American Gangster,130164645,Biography,2007-09-01,BIOGRAFIA
+Avatar,760507625,Action,2009-03-01,ACCION
+Mr. Nobody,3600,Drama,2009-02-01,DRAMA
+Apocalypto,50866635,Action,2006-06-01,ACCION
+Little Miss Sunshine,59891098,Comedy,2006-12-01,COMEDIA
+Hot Fuzz,23637265,Action,2007-06-01,ACCION
+The Curious Case of Benjamin Button,127509326,Drama,2008-01-01,DRAMA
+Veer-Zaara,2921738,Drama,2004-06-01,DRAMA
+Adams æbler,1305,Comedy,2005-08-01,COMEDIA
+Pride & Prejudice,38405088,Drama,2005-05-01,DRAMA
+The World's Fastest Indian,5128124,Biography,2005-02-01,BIOGRAFIA
+Tôkyô goddofâzâzu,128985,Animation,2003-06-01,ANIMACION
+Serenity,25514517,Action,2005-06-01,ACCION
+Walk the Line,119519402,Biography,2005-05-01,BIOGRAFIA
+Ondskan,15280,Drama,2003-12-01,DRAMA
+The Notebook,81001787,Drama,2004-06-01,DRAMA
+Diarios de motocicleta,16756372,Adventure,2004-06-01,AVENTURA
+Lilja 4-ever,181655,Crime,2002-06-01,CRIMEN
+Les triplettes de Belleville,7002255,Animation,2003-04-01,ANIMACION
+Gongdong gyeongbi guyeok JSA,1,Action,2000-02-01,ACCION
+The Count of Monte Cristo,54234062,Action,2002-10-01,ACCION
+Waking Life,2892011,Animation,2001-05-01,ANIMACION
+Remember the Titans,115654751,Biography,2000-05-01,BIOGRAFIA
+Wo hu cang long,128078872,Action,2000-09-01,ACCION
+Todo sobre mi madre,8264530,Drama,1999-08-01,DRAMA
+Cast Away,233632142,Adventure,2000-12-01,AVENTURA
+The Boondock Saints,25812,Action,1999-10-01,ACCION
+The Insider,28965197,Biography,1999-09-01,BIOGRAFIA
+October Sky,32481825,Biography,1999-09-01,BIOGRAFIA
+Shrek,267665011,Animation,2001-05-01,ANIMACION
+Titanic,659325379,Drama,1997-08-01,DRAMA
+Hana-bi,233986,Crime,1997-09-01,CRIMEN
+Gattaca,12339633,Drama,1997-09-01,DRAMA
+The Game,48323648,Action,1997-05-01,ACCION
+Breaking the Waves,4040691,Drama,1996-10-01,DRAMA
+Ed Wood,5887457,Biography,1994-06-01,BIOGRAFIA
+What's Eating Gilbert Grape,9170214,Drama,1993-06-01,DRAMA
+Tombstone,56505065,Action,1993-02-01,ACCION
+The Sandlot,32416586,Comedy,1993-06-01,COMEDIA
+The Remains of the Day,22954968,Drama,1993-09-01,DRAMA
+Naked,1769305,Comedy,1993-07-01,COMEDIA
+The Fugitive,183875760,Action,1993-01-01,ACCION
+A Bronx Tale,17266971,Crime,1993-11-01,CRIMEN
+Batman: Mask of the Phantasm,5617391,Animation,1993-04-01,ANIMACION
+Lat sau san taam,1,Action,1992-06-01,ACCION
+Night on Earth,2015810,Comedy,1991-01-01,COMEDIA
+La double vie de Véronique,1999955,Drama,1991-08-01,DRAMA
+Boyz n the Hood,57504069,Crime,1991-07-01,CRIMEN
+Misery,61276872,Drama,1990-08-01,DRAMA
+Awakenings,52096475,Biography,1990-02-01,BIOGRAFIA
+Majo no takkyûbin,1,Animation,1989-09-01,ANIMACION
+Glory,26830000,Biography,1989-03-01,BIOGRAFIA
+Dip huet seung hung,1,Action,1989-04-01,ACCION
+Back to the Future Part II,118500000,Adventure,1989-10-01,AVENTURA
+Mississippi Burning,34603943,Crime,1988-07-01,CRIMEN
+Predator,59735548,Action,1987-12-01,ACCION
+Evil Dead II,5923044,Action,1987-09-01,ACCION
+Ferris Bueller's Day Off,70136369,Comedy,1986-06-01,COMEDIA
+Down by Law,1436000,Comedy,1986-03-01,COMEDIA
+The Goonies,61503218,Adventure,1985-04-01,AVENTURA
+The Color Purple,98467863,Drama,1985-07-01,DRAMA
+The Breakfast Club,45875171,Comedy,1985-04-01,COMEDIA
+The Killing Fields,34700291,Biography,1984-05-01,BIOGRAFIA
+Ghostbusters,238632124,Action,1984-05-01,ACCION
+The Right Stuff,21500000,Adventure,1983-06-01,AVENTURA
+The King of Comedy,2500000,Comedy,1982-08-01,COMEDIA
+E.T. the Extra-Terrestrial,435110554,Family,1982-01-01,OTRO
+Kramer vs. Kramer,106260000,Drama,1979-09-01,DRAMA
+Days of Heaven,1,Drama,1978-12-01,DRAMA
+The Outlaw Josey Wales,31800000,Western,1976-04-01,OESTE
+The Man Who Would Be King,1,Adventure,1975-08-01,AVENTURA
+The Conversation,4420000,Drama,1974-10-01,DRAMA
+La planète sauvage,193817,Animation,1973-06-01,ANIMACION
+The Day of the Jackal,16056255,Crime,1973-06-01,CRIMEN
+Badlands,1,Action,1973-03-01,ACCION
+Cabaret,42765000,Drama,1972-09-01,DRAMA
+Willy Wonka & the Chocolate Factory,4000000,Family,1971-07-01,OTRO
+Midnight Cowboy,44785053,Drama,1969-11-01,DRAMA
+Wait Until Dark,17550741,Thriller,1967-09-01,OTRO
+Guess Who's Coming to Dinner,56700000,Comedy,1967-04-01,COMEDIA
+Bonnie and Clyde,1,Action,1967-11-01,ACCION
+My Fair Lady,72000000,Drama,1964-09-01,DRAMA
+Mary Poppins,102272727,Comedy,1964-01-01,COMEDIA
+The Longest Day,39100000,Action,1962-11-01,ACCION
+Jules et Jim,1,Drama,1962-07-01,DRAMA
+The Innocents,2616000,Horror,1961-04-01,HORROR
+À bout de souffle,336705,Crime,1960-11-01,CRIMEN
+Red River,1,Action,1948-09-01,ACCION
+Key Largo,1,Action,1948-09-01,ACCION
+To Have and Have Not,1,Adventure,1944-08-01,AVENTURA
+Shadow of a Doubt,1,Film-Noir,1943-02-01,OTRO
+Stagecoach,1,Adventure,1939-04-01,AVENTURA
+The Lady Vanishes,1,Mystery,1938-03-01,MISTERIO
+Bringing Up Baby,1,Comedy,1938-11-01,COMEDIA
+Bride of Frankenstein,4360000,Drama,1935-01-01,DRAMA
+Duck Soup,1,Comedy,1933-07-01,COMEDIA
+Scarface: The Shame of the Nation,1,Action,1932-03-01,ACCION
+Frankenstein,1,Drama,1931-09-01,DRAMA
+Roma,1,Drama,2018-01-01,DRAMA
+God's Own Country,335609,Drama,2017-05-01,DRAMA
+Deadpool 2,324591735,Action,2018-11-01,ACCION
+Wind River,33800859,Crime,2017-11-01,CRIMEN
+Get Out,176040665,Horror,2017-05-01,HORROR
+Mission: Impossible - Fallout,220159104,Action,2018-12-01,ACCION
+En man som heter Ove,3358518,Comedy,2015-11-01,COMEDIA
+What We Do in the Shadows,3333000,Comedy,2014-06-01,COMEDIA
+Omoide no Mânî,765127,Animation,2014-08-01,ANIMACION
+The Theory of Everything,35893537,Biography,2014-08-01,BIOGRAFIA
+Kingsman: The Secret Service,128261724,Action,2014-02-01,ACCION
+The Fault in Our Stars,124872350,Drama,2014-10-01,DRAMA
+Me and Earl and the Dying Girl,6743776,Comedy,2015-07-01,COMEDIA
+Birdman or (The Unexpected Virtue of Ignorance),42340598,Comedy,2014-12-01,COMEDIA
+La vie d'Adèle,2199675,Drama,2013-08-01,DRAMA
+Kai po che!,1122527,Drama,2013-04-01,DRAMA
+The Broken Circle Breakdown,175058,Drama,2012-02-01,DRAMA
+Captain America: The Winter Soldier,259766572,Action,2014-10-01,ACCION
+Rockstar,985912,Drama,2011-04-01,DRAMA
+Nebraska,17654912,Adventure,2013-09-01,AVENTURA
+Wreck-It Ralph,189422889,Animation,2012-10-01,ANIMACION
+Le Petit Prince,1339152,Animation,2015-05-01,ANIMACION
+Detachment,71177,Drama,2011-06-01,DRAMA
+Midnight in Paris,56816662,Comedy,2011-12-01,COMEDIA
+The Lego Movie,257760692,Animation,2014-12-01,ANIMACION
+Gravity,274092705,Drama,2013-10-01,DRAMA
+Star Trek Into Darkness,228778661,Action,2013-10-01,ACCION
+Beasts of No Nation,83861,Drama,2015-02-01,DRAMA
+The Social Network,96962694,Biography,2010-09-01,BIOGRAFIA
+X: First Class,146408305,Action,2011-05-01,ACCION
+The Hangover,277322503,Comedy,2009-02-01,COMEDIA
+Skyfall,304360277,Action,2012-10-01,ACCION
+Silver Linings Playbook,132092958,Comedy,2012-10-01,COMEDIA
+Argo,136025503,Biography,2012-09-01,BIOGRAFIA
+(500) Days of Summer,32391374,Comedy,2009-01-01,COMEDIA
+Harry Potter and the Deathly Hallows: Part 1,295983305,Adventure,2010-03-01,AVENTURA
+Gake no ue no Ponyo,15090400,Animation,2008-06-01,ANIMACION
+Frost/Nixon,18593156,Biography,2008-05-01,BIOGRAFIA
+Papurika,881302,Animation,2006-04-01,ANIMACION
+Changeling,35739802,Biography,2008-04-01,BIOGRAFIA
+Flipped,1752214,Comedy,2010-05-01,COMEDIA
+Toki o kakeru shôjo,1,Animation,2006-08-01,ANIMACION
+Death Note: Desu nôto,1,Crime,2006-08-01,CRIMEN
+This Is England,327919,Crime,2006-09-01,CRIMEN
+Ex Machina,25442958,Drama,2014-02-01,DRAMA
+Efter brylluppet,412544,Drama,2006-05-01,DRAMA
+The Last King of Scotland,17605861,Biography,2006-04-01,BIOGRAFIA
+Zodiac,33080084,Crime,2007-06-01,CRIMEN
+Lucky Number Slevin,22494487,Action,2006-04-01,ACCION
+Joyeux Noël,1054361,Drama,2005-07-01,DRAMA
+Control,871577,Biography,2007-10-01,BIOGRAFIA
+Tangled,200821936,Animation,2010-12-01,ANIMACION
+Zwartboek,4398392,Drama,2006-05-01,DRAMA
+Brokeback Mountain,83043761,Drama,2005-12-01,DRAMA
+3:10 to Yuma,53606916,Action,2007-04-01,ACCION
+Crash,54580300,Crime,2004-10-01,CRIMEN
+Kung fu,17108591,Action,2004-09-01,ACCION
+The Bourne Supremacy,176241941,Action,2004-07-01,ACCION
+The Machinist,1082715,Drama,2004-07-01,DRAMA
+Ray,75331600,Biography,2004-08-01,BIOGRAFIA
+Lost in Translation,44585453,Comedy,2003-10-01,COMEDIA
+Harry Potter and the Goblet of Fire,290013036,Adventure,2005-06-01,AVENTURA
+Man on Fire,77911774,Action,2004-11-01,ACCION
+Coraline,75286229,Animation,2009-01-01,ANIMACION
+The Last Samurai,111110575,Action,2003-01-01,ACCION
+The Magdalene Sisters,4890878,Drama,2002-05-01,DRAMA
+Good Bye Lenin!,4064200,Comedy,2003-02-01,COMEDIA
+In America,15539266,Drama,2002-08-01,DRAMA
+I Am Sam,40311852,Drama,2001-10-01,DRAMA
+Adaptation.,22245861,Comedy,2002-03-01,COMEDIA
+Black Hawk Down,108638745,Drama,2001-08-01,DRAMA
+Road to Perdition,104454762,Crime,2002-04-01,CRIMEN
+Das Experiment,141072,Drama,2001-04-01,DRAMA
+Billy Elliot,21995263,Drama,2000-08-01,DRAMA
+Hedwig and the Angry Inch,3029081,Comedy,2001-02-01,COMEDIA
+Ocean's Eleven,183417150,Crime,2001-05-01,CRIMEN
+Vampire Hunter D: Bloodlust,151086,Animation,2000-09-01,ANIMACION
+"O Brother, Where Art Thou?",45512588,Adventure,2000-09-01,AVENTURA
+Interstate 60: Episodes of the Road,1,Adventure,2002-06-01,AVENTURA
+"South Park: Bigger, Longer & Uncut",52037603,Animation,1999-10-01,ANIMACION
+Office Space,10824921,Comedy,1999-12-01,COMEDIA
+Happiness,2807390,Comedy,1998-06-01,COMEDIA
+Training Day,76631907,Crime,2001-12-01,CRIMEN
+Rushmore,17105219,Comedy,1998-08-01,COMEDIA
+Abre los ojos,368234,Drama,1997-04-01,DRAMA
+Being John Malkovich,22858926,Comedy,1999-10-01,COMEDIA
+As Good as It Gets,148478011,Comedy,1997-09-01,COMEDIA
+The Fifth Element,63540020,Action,1997-04-01,ACCION
+Le dîner de cons,4065116,Comedy,1998-10-01,COMEDIA
+Donnie Brasco,41909762,Biography,1997-06-01,BIOGRAFIA
+Shine,35811509,Biography,1996-03-01,BIOGRAFIA
+Primal Fear,56116183,Crime,1996-12-01,CRIMEN
+Hamlet,4414535,Drama,1996-04-01,DRAMA
+A Little Princess,10019307,Drama,1995-10-01,DRAMA
+Do lok tin si,1,Comedy,1995-08-01,COMEDIA
+Il postino,21848932,Biography,1994-11-01,BIOGRAFIA
+Clerks,3151130,Comedy,1994-12-01,COMEDIA
+Short Cuts,6110979,Comedy,1993-11-01,COMEDIA
+Philadelphia,77324422,Drama,1993-12-01,DRAMA
+The Muppet Christmas Carol,27281507,Comedy,1992-04-01,COMEDIA
+Malcolm X,48169908,Biography,1992-01-01,BIOGRAFIA
+The Last of the Mohicans,75505856,Action,1992-11-01,ACCION
+Kurenai no buta,1,Animation,1992-09-01,ANIMACION
+Glengarry Glen Ross,10725228,Crime,1992-02-01,CRIMEN
+A Few Good Men,141340178,Drama,1992-09-01,DRAMA
+Fried Green Tomatoes,82418501,Drama,1991-08-01,DRAMA
+Barton Fink,6153939,Comedy,1991-07-01,COMEDIA
+Miller's Crossing,5080409,Crime,1990-08-01,CRIMEN
+Who Framed Roger Rabbit,156452370,Animation,1988-11-01,ANIMACION
+Spoorloos,1,Mystery,1988-01-01,MISTERIO
+Withnail & I,1544889,Comedy,1987-02-01,COMEDIA
+The Last Emperor,43984230,Biography,1987-03-01,BIOGRAFIA
+Empire of the Sun,22238696,Action,1987-06-01,ACCION
+Der Name der Rose,7153487,Crime,1986-04-01,CRIMEN
+Blue Velvet,8551228,Drama,1986-09-01,DRAMA
+The Purple Rose of Cairo,10631333,Comedy,1985-03-01,COMEDIA
+After Hours,10600000,Comedy,1985-01-01,COMEDIA
+Zelig,11798616,Comedy,1983-11-01,COMEDIA
+The Verdict,54000000,Drama,1982-04-01,DRAMA
+Star Trek II: The Wrath of Khan,78912963,Action,1982-01-01,ACCION
+First Blood,47212904,Action,1982-12-01,ACCION
+Ordinary People,54800000,Drama,1980-02-01,DRAMA
+Airplane!,83400000,Comedy,1980-10-01,COMEDIA
+Rupan sansei: Kariosutoro no shiro,1,Animation,1979-08-01,ANIMACION
+Halloween,47000000,Horror,1978-12-01,HORROR
+Le locataire,1924733,Drama,1976-03-01,DRAMA
+Love and Death,1,Comedy,1975-07-01,COMEDIA
+The Taking of Pelham One Two Three,1,Action,1974-04-01,ACCION
+Blazing Saddles,119500000,Comedy,1974-01-01,COMEDIA
+Serpico,29800000,Biography,1973-11-01,BIOGRAFIA
+Enter the Dragon,25000000,Action,1973-11-01,ACCION
+Deliverance,7056013,Adventure,1972-11-01,AVENTURA
+The French Connection,15630710,Action,1971-08-01,ACCION
+Dirty Harry,35900000,Action,1971-07-01,ACCION
+Where Eagles Dare,1,Action,1968-06-01,ACCION
+The Odd Couple,44527234,Comedy,1968-11-01,COMEDIA
+The Dirty Dozen,45300000,Action,1967-08-01,ACCION
+Belle de jour,26331,Drama,1967-09-01,DRAMA
+A Man for All Seasons,28350000,Biography,1966-07-01,BIOGRAFIA
+Repulsion,1,Drama,1965-09-01,DRAMA
+Zulu,1,Drama,1964-11-01,DRAMA
+Goldfinger,51081062,Action,1964-11-01,ACCION
+The Birds,11403529,Drama,1963-04-01,DRAMA
+Cape Fear,1,Drama,1962-01-01,DRAMA
+Peeping Tom,83957,Drama,1960-04-01,DRAMA
+The Magnificent Seven,4905000,Action,1960-04-01,ACCION
+Les yeux sans visage,52709,Drama,1960-08-01,DRAMA
+Invasion of the Body Snatchers,1,Drama,1956-10-01,DRAMA
+Rebel Without a Cause,1,Drama,1955-06-01,DRAMA
+The Ladykillers,1,Comedy,1955-05-01,COMEDIA
+Sabrina,1,Comedy,1954-06-01,COMEDIA
+The Quiet Man,10550000,Comedy,1952-07-01,COMEDIA
+The Day the Earth Stood Still,1,Drama,1951-11-01,DRAMA
+The African Queen,536118,Adventure,1951-06-01,AVENTURA
+Gilda,1,Drama,1946-03-01,DRAMA
+Fantasia,76408097,Animation,1940-06-01,ANIMACION
+The Invisible Man,1,Horror,1933-08-01,HORROR
+Dark Waters,1,Biography,2019-11-01,BIOGRAFIA
+Searching,26020957,Drama,2018-08-01,DRAMA
+Once Upon a Time... in Hollywood,142502728,Comedy,2019-02-01,COMEDIA
+Nelyubov,566356,Drama,2017-04-01,DRAMA
+The Florida Project,5904366,Drama,2017-08-01,DRAMA
+Just Mercy,1,Biography,2019-10-01,BIOGRAFIA
+Gifted,24801212,Drama,2017-09-01,DRAMA
+The Peanut Butter Falcon,13122642,Adventure,2019-11-01,AVENTURA
+Victoria,1,Crime,2015-12-01,CRIMEN
+Mustang,845464,Drama,2015-04-01,DRAMA
+Guardians of the Galaxy Vol. 2,389813101,Action,2017-02-01,ACCION
+Baby Driver,107825862,Action,2017-09-01,ACCION
+Only the Brave,18340051,Action,2017-03-01,ACCION
+Bridge of Spies,72313754,Drama,2015-04-01,DRAMA
+Incredibles 2,608581744,Animation,2018-06-01,ANIMACION
+Moana,248757044,Animation,2016-10-01,ANIMACION
+Sicario,46889293,Action,2015-04-01,ACCION
+Creed,109767581,Drama,2015-03-01,DRAMA
+Leviafan,1092800,Crime,2014-08-01,CRIMEN
+Hell or High Water,26862450,Action,2016-09-01,ACCION
+Philomena,37707719,Biography,2013-01-01,BIOGRAFIA
+Dawn of the Planet of the Apes,208545589,Action,2014-04-01,ACCION
+El cuerpo,1,Mystery,2012-05-01,MISTERIO
+Serbuan maut,4105123,Action,2011-08-01,ACCION
+End of Watch,41003371,Action,2012-10-01,ACCION
+Kari-gurashi no Arietti,19202743,Animation,2010-06-01,ANIMACION
+A Star Is Born,215288866,Drama,2018-08-01,DRAMA
+True Grit,171243005,Drama,2010-09-01,DRAMA
+Hævnen,1008098,Drama,2010-10-01,DRAMA
+Despicable Me,251513985,Animation,2010-11-01,ANIMACION
+50/50,35014192,Comedy,2011-04-01,COMEDIA
+Kick-Ass,48071303,Action,2010-08-01,ACCION
+Celda 211,1,Action,2009-09-01,ACCION
+Moneyball,75605492,Biography,2011-12-01,BIOGRAFIA
+La piel que habito,3185812,Drama,2011-08-01,DRAMA
+Zombieland,75590286,Adventure,2009-03-01,AVENTURA
+Die Welle,1,Drama,2008-11-01,DRAMA
+Sherlock Holmes,209028679,Action,2009-11-01,ACCION
+The Blind Side,255959475,Biography,2009-12-01,BIOGRAFIA
+The Visitor,9422422,Drama,2007-05-01,DRAMA
+Seven Pounds,69951824,Drama,2008-08-01,DRAMA
+Eastern Promises,17114882,Action,2007-03-01,ACCION
+Stardust,38634938,Adventure,2007-09-01,AVENTURA
+The Secret of Kells,686383,Animation,2009-04-01,ANIMACION
+Inside Man,88513495,Crime,2006-08-01,CRIMEN
+Gone Baby Gone,20300218,Crime,2007-08-01,CRIMEN
+La Vie En Rose,10301706,Biography,2007-05-01,BIOGRAFIA
+Huo Yuan Jia,24633730,Action,2006-07-01,ACCION
+The Illusionist,39868642,Drama,2006-02-01,DRAMA
+Dead Man's Shoes,6013,Crime,2004-10-01,CRIMEN
+Harry Potter and the Half-Blood Prince,301959197,Action,2009-04-01,ACCION
+300,210614939,Action,2006-08-01,ACCION
+Match Point,23089926,Drama,2005-05-01,DRAMA
+Watchmen,107509799,Action,2009-04-01,ACCION
+Lord of War,24149632,Action,2005-01-01,ACCION
+Saw,56000369,Horror,2004-07-01,HORROR
+"Synecdoche, New York",3081925,Drama,2008-12-01,DRAMA
+Mysterious Skin,697181,Drama,2004-07-01,DRAMA
+Jeux d'enfants,548707,Comedy,2003-11-01,COMEDIA
+Un long dimanche de fiançailles,6167817,Drama,2004-07-01,DRAMA
+The Station Agent,5739376,Comedy,2003-09-01,COMEDIA
+21 Grams,16290476,Crime,2003-11-01,CRIMEN
+Boksuneun naui geot,45289,Crime,2002-10-01,CRIMEN
+Finding Neverland,51680613,Biography,2004-01-01,BIOGRAFIA
+25th Hour,13060843,Drama,2002-04-01,DRAMA
+The Butterfly Effect,57938693,Drama,2004-02-01,DRAMA
+28 Days Later...,45064915,Drama,2002-09-01,DRAMA
+Batoru rowaiaru,1,Action,2000-06-01,ACCION
+The Royal Tenenbaums,52364010,Comedy,2001-09-01,COMEDIA
+Y tu mamá también,13622333,Drama,2001-08-01,DRAMA
+Harry Potter and the Sorcerer's Stone,317575550,Adventure,2001-04-01,AVENTURA
+The Others,96522687,Horror,2001-10-01,HORROR
+Blow,52990775,Biography,2001-10-01,BIOGRAFIA
+Enemy at the Gates,51401758,Drama,2001-09-01,DRAMA
+Minority Report,132072926,Action,2002-09-01,ACCION
+The Hurricane,50668906,Biography,1999-10-01,BIOGRAFIA
+American Psycho,15070285,Comedy,2000-02-01,COMEDIA
+Lola rennt,7267585,Crime,1998-10-01,CRIMEN
+The Thin Red Line,36400491,Drama,1998-03-01,DRAMA
+Mulan,120620254,Animation,1998-02-01,ANIMACION
+Fear and Loathing in Las Vegas,10680275,Adventure,1998-11-01,AVENTURA
+Funny Games,1,Crime,1997-10-01,CRIMEN
+Dark City,14378331,Mystery,1998-05-01,MISTERIO
+Sleepers,49100000,Crime,1996-01-01,CRIMEN
+Lost Highway,3796699,Mystery,1997-10-01,MISTERIO
+Sense and Sensibility,43182776,Drama,1995-04-01,DRAMA
+Die Hard: With a Vengeance,100012499,Action,1995-03-01,ACCION
+Dead Man,1037847,Adventure,1995-11-01,AVENTURA
+The Bridges of Madison County,71516617,Drama,1995-09-01,DRAMA
+Apollo 13,173837933,Adventure,1995-08-01,AVENTURA
+Trois couleurs: Blanc,1464625,Comedy,1994-07-01,COMEDIA
+Falling Down,40903593,Action,1993-03-01,ACCION
+Dazed and Confused,7993039,Comedy,1993-04-01,COMEDIA
+My Cousin Vinny,52929168,Comedy,1992-02-01,COMEDIA
+Omohide poro poro,453243,Animation,1991-08-01,ANIMACION
+Delicatessen,1794187,Comedy,1991-10-01,COMEDIA
+Home Alone,285761243,Comedy,1990-06-01,COMEDIA
+The Godfather: Part III,66666062,Crime,1990-04-01,CRIMEN
+When Harry Met Sally...,92823600,Comedy,1989-05-01,COMEDIA
+The Little Mermaid,111543479,Animation,1989-07-01,ANIMACION
+The Naked Gun: From the Files of Police Squad!,78756177,Comedy,1988-11-01,COMEDIA
+"Planes, Trains & Automobiles",49530280,Comedy,1987-02-01,COMEDIA
+Lethal Weapon,65207127,Action,1987-02-01,ACCION
+Blood Simple,2150000,Crime,1984-02-01,CRIMEN
+On Golden Pond,119285432,Drama,1981-09-01,DRAMA
+Mad Max 2,12465371,Action,1981-12-01,ACCION
+The Warriors,22490039,Action,1979-09-01,ACCION
+The Muppet Movie,76657000,Adventure,1979-07-01,AVENTURA
+Escape from Alcatraz,43000000,Action,1979-09-01,ACCION
+Watership Down,1,Animation,1978-04-01,ANIMACION
+Midnight Express,35000000,Biography,1978-09-01,BIOGRAFIA
+Close Encounters of the Third Kind,132088635,Drama,1977-07-01,DRAMA
+The Long Goodbye,959000,Comedy,1973-11-01,COMEDIA
+Giù la testa,696690,Drama,1971-02-01,DRAMA
+Kelly's Heroes,1378435,Adventure,1970-03-01,AVENTURA
+The Jungle Book,141843612,Animation,1967-10-01,ANIMACION
+Blowup,1,Drama,1966-08-01,DRAMA
+A Hard Day's Night,13780024,Comedy,1964-01-01,COMEDIA
+Breakfast at Tiffany's,1,Comedy,1961-07-01,COMEDIA
+Giant,1,Drama,1956-11-01,DRAMA
+From Here to Eternity,30500000,Drama,1953-05-01,DRAMA
+Lifeboat,1,Drama,1944-04-01,DRAMA
+The 39 Steps,1,Crime,1935-08-01,CRIMEN
