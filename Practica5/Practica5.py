@@ -33,4 +33,4 @@ df_by_genero = df.groupby("Genero")\
               .aggregate(ingreso_genero=pd.NamedAgg(column="Gross", aggfunc=pd.DataFrame.mean))
 df_by_genero.reset_index(inplace=True)
 print_tabulate(df_by_genero.head())
-regresion_lineal(df_by_genero, "Genero", "ingreso_genero")
+regresion_lineal(df_by_genero, "Genero", "ingresos_genero")
